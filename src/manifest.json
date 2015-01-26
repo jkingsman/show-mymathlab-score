@@ -2,7 +2,7 @@
     "manifest_version":2,
     "name":"Show MyMathLab Score",
     "version":"0.0.0.1",
-    "description":"Display scores on MyMathLab homeworks without clicking 'see score'",
+    "description":"Display scores on MyMathLab homeworks without clicking 'see score'.",
 	"page_action":{
         "default_title":"Show MyMathLab Score",
         "default_icon":{
